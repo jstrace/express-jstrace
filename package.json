@@ -1,0 +1,20 @@
+{
+  "name": "express-jstrace",
+  "version": "0.0.1",
+  "repository": "jstrace/express-jstrace",
+  "description": "jstrace middleware for express",
+  "keywords": [
+    "jstrace",
+    "trace",
+    "express",
+    "profiling"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "jstrace": "0.0.4",
+    "express": "~3.4.8"
+  },
+  "license": "MIT"
+}
