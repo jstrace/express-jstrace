@@ -1,4 +1,3 @@
-
 # express-jstrace
 
   jstrace middleware for express.
@@ -12,7 +11,7 @@ $ npm install express-jstrace
 ## Example
 
 ```js
-var trace = require('jstrace-express');
+var trace = require('express-jstrace');
 var jstrace = require('jstrace');
 app.use(trace({ trace: jstrace }));
 ```
